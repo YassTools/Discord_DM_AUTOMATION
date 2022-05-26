@@ -1,7 +1,7 @@
 import os
 
 
-depedencies = ['colorama','requests','time','json','re','turtle','tkinter']
+depedencies = ['colorama','requests','time','json']
 print('Preparing to install modules...')
 
 for library in depedencies:
