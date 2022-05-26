@@ -1,7 +1,3 @@
-from concurrent.futures import process
-from re import I
-from tkinter import W
-from turtle import title
 import requests
 import colorama
 import time
